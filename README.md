@@ -50,3 +50,4 @@ In **lossy compression**, some data is permanently lost to achieve higher compre
 - **Multimedia Streaming** – Enables efficient streaming of audio and video content.  
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/effb8968-f8b8-41d3-97b9-b3a93f1a4501)
